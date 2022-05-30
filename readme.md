@@ -1,6 +1,6 @@
 # Design patterns 
 
-Design patterns implemented in golan
+Design patterns implemented in golang
 
 ### Creational Patterns
 - Builder ✅
