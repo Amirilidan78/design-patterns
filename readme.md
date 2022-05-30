@@ -3,7 +3,6 @@
 Design patterns implemented in golan
 
 ### Creational Patterns
-- Abstract Factory 
 - Builder 
 - Factory Method 
 - Prototype
