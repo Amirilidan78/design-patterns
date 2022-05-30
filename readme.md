@@ -3,10 +3,10 @@
 Design patterns implemented in golan
 
 ### Creational Patterns
-- Builder 
-- Factory Method 
-- Prototype
-- Singleton 
+- Builder ✅
+- Factory Method ✅
+- Prototype ✅
+- Singleton  ✅
 
 ### Structural Patterns
 - Adapter
