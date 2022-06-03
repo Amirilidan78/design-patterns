@@ -9,7 +9,7 @@ Design patterns implemented in golang
 - Singleton  ✅
 
 ### Structural Patterns
-- Adapter
+- Adapter ✅
 - Bridge 
 - Composite
 - Decorator
